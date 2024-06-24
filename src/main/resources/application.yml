@@ -36,3 +36,4 @@ spring:
                 - "message.read"
                 - "message.write"
             require-authorization-consent: true
+            require-proof-key: true
